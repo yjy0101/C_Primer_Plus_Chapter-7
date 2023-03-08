@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.5条件运算符：？�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.6循环辅助：continue和break", "07.6循环辅助：continue和break\07.6循环辅助：continue和break.vcxproj", "{547AFB60-73A4-4329-90FC-8DE00A66DFCA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07.7多重选择：switch和break", "07.7多重选择：switch和break\07.7多重选择：switch和break.vcxproj", "{27D79B92-D770-4386-8F70-21EAF65A8299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{547AFB60-73A4-4329-90FC-8DE00A66DFCA}.Release|x64.Build.0 = Release|x64
 		{547AFB60-73A4-4329-90FC-8DE00A66DFCA}.Release|x86.ActiveCfg = Release|Win32
 		{547AFB60-73A4-4329-90FC-8DE00A66DFCA}.Release|x86.Build.0 = Release|Win32
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Debug|x64.ActiveCfg = Debug|x64
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Debug|x64.Build.0 = Debug|x64
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Debug|x86.ActiveCfg = Debug|Win32
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Debug|x86.Build.0 = Debug|Win32
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Release|x64.ActiveCfg = Release|x64
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Release|x64.Build.0 = Release|x64
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Release|x86.ActiveCfg = Release|Win32
+		{27D79B92-D770-4386-8F70-21EAF65A8299}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

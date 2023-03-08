@@ -19,14 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="break.cpp" />
-    <ClCompile Include="skippart.cpp" />
+    <ClCompile Include="FileName.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{547afb60-73a4-4329-90fc-8de00a66dfca}</ProjectGuid>
-    <RootNamespace>My076循环辅助continue和break</RootNamespace>
+    <ProjectGuid>{27d79b92-d770-4386-8f70-21eaf65a8299}</ProjectGuid>
+    <RootNamespace>My077多重选择switch和break</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

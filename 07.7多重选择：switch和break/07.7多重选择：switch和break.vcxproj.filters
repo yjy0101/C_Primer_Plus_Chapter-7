@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="break.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="skippart.cpp">
+    <ClCompile Include="FileName.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
